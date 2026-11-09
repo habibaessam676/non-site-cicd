@@ -14,3 +14,4 @@ if (typeof document !== 'undefined') {
     document.getElementById('resultat').textContent = saluer(nom);
   });
 }
+
